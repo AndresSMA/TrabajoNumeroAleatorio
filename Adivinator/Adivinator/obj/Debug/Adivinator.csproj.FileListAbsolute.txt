@@ -1,0 +1,7 @@
+C:\Users\pc1\source\repos\Adivinator\Adivinator\bin\Debug\Adivinator.exe.config
+C:\Users\pc1\source\repos\Adivinator\Adivinator\bin\Debug\Adivinator.exe
+C:\Users\pc1\source\repos\Adivinator\Adivinator\bin\Debug\Adivinator.pdb
+C:\Users\pc1\source\repos\Adivinator\Adivinator\obj\Debug\Adivinator.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\Adivinator\Adivinator\obj\Debug\Adivinator.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\Adivinator\Adivinator\obj\Debug\Adivinator.exe
+C:\Users\pc1\source\repos\Adivinator\Adivinator\obj\Debug\Adivinator.pdb
