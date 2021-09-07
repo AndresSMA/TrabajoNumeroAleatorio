@@ -12,7 +12,7 @@ namespace Adivinator
         private string direccion;
         private int telefono;
         private int numeroDeVecesAdivinados;
-
+        //Hola!!!
         public Jugador(string nombre, string direccion, int telefono)
         {
             this.nombre = nombre;
